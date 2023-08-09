@@ -1,0 +1,68 @@
+body
+{
+	background-image : url('bank.jpg');
+	background-size : 100%;
+}
+h1
+{
+	margin-top : 20px;
+	font-size : 80px;
+	color : White;
+	Font-family : fantasy;
+	margin-bottom : 10px;
+}
+.anchor
+{
+	font-size : 70px;
+	color : cyan;
+	text-decoration : none;
+	font-weight : bold;
+	background-color : black;
+}
+label
+{
+	font-size : 30px;
+	color : yellow;
+	font-weight : bold;
+}
+input,textarea
+{
+	height : 40px;
+	width : 400px;
+	font-size : 30px;
+	color : White;
+	background-color : black;
+	margin-right : 0px;
+}
+.r
+{
+	width : 40px;
+}
+#log
+{
+	font-size : 30px;
+	color : pink;
+	font-weight : bold;
+	text-decoration : none;
+}
+#l
+{
+	margin-top : 150px;
+	margin-left : 50px;
+}
+td
+{
+	padding-bottom : 10px;
+}	
+table
+{
+	margin-top : 200px;
+	margin-left : 150px;
+}
+strong
+{
+	font-size : 40px; 
+	float : right; 
+	color : lime; 
+	font-family : monospace
+}
