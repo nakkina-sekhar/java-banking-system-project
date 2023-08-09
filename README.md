@@ -1,10 +1,6 @@
-# java-banking-system-project
-Banking-System-Project by using Spring Framework.
 # Banking System Project using Java Spring Framework
 
-![Banking System](banking-system-screenshot.png)
-
-This project is a comprehensive Banking System developed using the Java Spring Framework. It provides a secure and user-friendly platform for various banking operations, including secure authentication, seamless fund transfers, and user registration. The project utilizes a combination of back-end and front-end technologies to deliver a robust and efficient banking solution.
+  This project is a comprehensive Banking System developed using the Java Spring Framework. It provides a secure and user-friendly platform for various banking operations, including secure authentication, seamless fund transfers, and user registration. The project utilizes a combination of back-end and front-end technologies to deliver a robust and efficient banking solution.
 
 ## Features
 
@@ -48,5 +44,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Note:** This README is a template and should be customized to fit the specific details of your Banking System project developed using the Java Spring Framework. Make sure to provide accurate information, installation instructions, and other relevant details specific to your project.
